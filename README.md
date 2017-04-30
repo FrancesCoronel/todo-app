@@ -4,14 +4,7 @@
 
 A tutorial for the to-do app for CodeNow workshop (April 2017).
 
-- [View this project on platform](fvcproductions.github.io/todo_app)
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
+- [View this project on GitHub Pages](http://fvcproductions.github.io/todo_app)
 
 ## Installation
 
