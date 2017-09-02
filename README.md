@@ -1,4 +1,4 @@
-# todo_app
+# todo-app
 
 [![Github Issues](https://img.shields.io/github/issues/fvcproductions/todo_app.svg?style=flat-square)](https://github.com/fvcproductions/todo_app/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/todo_app.svg?style=flat-square)](https://github.com/fvcproductions/todo_app/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
 
